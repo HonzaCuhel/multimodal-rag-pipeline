@@ -1,0 +1,12 @@
+pillow
+Levenshtein
+langchain
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+faiss-gpu
+langchain-community
+langchain-huggingface
+fitz
+pymupdf
