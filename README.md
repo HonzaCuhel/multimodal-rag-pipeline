@@ -10,11 +10,11 @@ This is a working example of a multi-modal RAG QA application that lets users up
 
 ### Pre-processing
 
-![Pre-processing phase of the multi-modal RAG pipeline](./images/multimodal_plot_rag_preprocessing.png)
+![Pre-processing phase of the multi-modal RAG pipeline](./images/multimodal_plot_rag_preprocessing.jpg)
 
 ### Inference
 
-![Inference phase of the multi-modal RAG pipeline](./images/multimodal_inference_rag.png)
+![Inference phase of the multi-modal RAG pipeline](./images/multimodal_inference_rag.jpg)
 
 ## Installation
 
